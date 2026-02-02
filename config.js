@@ -5,8 +5,8 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "joya",
-
+    valentineName: "joya ,baby",
+ 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
     pageTitle: "Will You Be My Valentine? 💝",
@@ -34,8 +34,8 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "Si!"                                                 // Text for "No" button
+            yesBtn: "Si!",                                             // Text for "Yes" button
+            noBtn: "Yes!"                                                 // Text for "No" button
         }
     },
 
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "MEEE TOOO BABYYY!!!! Now come get your gift, a big warm hug and a huge kiss Albeeee!",
+        message: "I love u too baby!!!! Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
