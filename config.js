@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://alone-beige-edjhwaxkfs.edgeone.app/Download%20Sailor%20Song%20-%20Gigi%20Perez%20by%20Kamil%20Chbeir%20-%20Listen%20MP3%20&%20WAV%20for%20FREE%20on%20audio.com.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
